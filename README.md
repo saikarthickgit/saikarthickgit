@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saikarthickgit
-- 👀 I’m interested Football      REALMADRID FOREVER
+
 - 🌱 I’m currently learning JAVA/CPP
 - 📫 reach me @ nofearfordeath952@gamil.com
-- 😄 Pronouns: Be prepared
+- 
 - ⚡ Fun fact: Things always change
 
 <!---
