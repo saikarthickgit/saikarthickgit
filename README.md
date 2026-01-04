@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @saikarthickgit
-
-- 🌱 I’m currently learning JAVA/CPP
-- 📫 reach me @ nofearfordeath952@gamil.com
-- 
-- ⚡ Fun fact: Things always change
 
 <!---
 saikarthickgit/saikarthickgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
